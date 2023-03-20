@@ -4,7 +4,7 @@ public class Jenkins1 {
   public static void main(String[] args) {
     
       Scanner input = new Scanner(System.in);
-      String a = input.nextLine();
+      String a = input.next();
       System.out.println(a);
   }
 }
