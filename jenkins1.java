@@ -5,6 +5,6 @@ public class Jenkins1 {
     
 //       Scanner input = new Scanner(System.in);
 //       String a = input.nextLine();
-      System.out.println(args.toString());
+      System.out.println(System.console.readLine());
   }
 }
